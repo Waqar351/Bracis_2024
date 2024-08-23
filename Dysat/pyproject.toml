@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "d"
+version = "0.1.0"
+description = ""
+authors = ["Waqar351 <waqar_comsat@yahoo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
